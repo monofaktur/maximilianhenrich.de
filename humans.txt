@@ -1,0 +1,16 @@
+# TEAM
+
+Owner: Maximilian Henrich  
+Site: www.maximilianhenrich.de  
+Email: hallo at maximilianhenrich.de  
+From: Düsseldorf, Germany
+
+# TECHNOLOGY
+
+Last update: 2017/04/03  
+Language: German  
+Doctype: HTML5  
+IDE: Atom, FileZilla  
+Hosted on Uberspace
+
+:flags:
